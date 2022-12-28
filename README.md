@@ -1,7 +1,8 @@
 # Soccer-Betting
 Using Statistics and Machine Learning to profit from soccer betting
 
-1) Collect all Premier League player/team/head-to-head data parsed into CSV files by season for forecasting.
+1)
+Collect all Premier League player/team/head-to-head data parsed into CSV files by season for forecasting.
 
 2)
 Predict the probability of Team A win (1), Team B win (2), or draw (3).
